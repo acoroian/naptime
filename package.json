@@ -1,0 +1,35 @@
+{
+  "name": "naptime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "naptime.ts",
+  "dependencies": {
+    "luxon": "^1.24.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.0",
+    "@types/luxon": "^1.24.0",
+    "@typescript-eslint/eslint-plugin": "^3.3.0",
+    "@typescript-eslint/parser": "^3.3.0",
+    "eslint": "^7.2.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.21.2",
+    "jest": "^26.0.1",
+    "ts-jest": "^26.1.0",
+    "typescript": "^3.9.5"
+  },
+  "scripts": {
+    "compile": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/acoroian/jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acoroian/jest/issues"
+  },
+  "homepage": "https://github.com/acoroian/jest#readme"
+}
